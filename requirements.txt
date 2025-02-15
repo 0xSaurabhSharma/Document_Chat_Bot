@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain_groq
+python-dotenv
+pypdf
+pymupdf
+faiss-cpu
+openai
+langchain_huggingface
